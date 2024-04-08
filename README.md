@@ -29,3 +29,4 @@ $ python server.py
 - manage\_vm.pyのreturnの値を適当に書きすぎたので修正する
 - Sleep On Lanへとの互換機能
 - socketを読んでWOLパケットでの起動をする機能の追加
+- dockerとかにする？(多分しない)
